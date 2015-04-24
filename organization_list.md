@@ -33,3 +33,4 @@
 - [豆瓣 Douban](https://github.com/douban)
 - [小米 Xiaomi](https://github.com/XiaoMi)
 - [饭本 Ricebook](https://github.com/ricebook)
+- [LeanCloud] (https://github.com/leancloud)
