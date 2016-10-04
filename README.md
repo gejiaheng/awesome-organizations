@@ -1,11 +1,7 @@
-Since we can't follow an organization on GitHub, I create this repo to bookmark some collected organizations.
+## Intro  
+Individuals and organizations form this awesome open source community. Below is a collection of some organizations I love. The second column is the GitHub url of the organization and the third column are websites of the organization including engineering blog, developer website, API reference, etc. 
 
-There are two sections:
-- International organizations
-- Chinese organizations
-
-You are welcomed to add more.
-
+## Organizations
 Organization | GitHub | Websites
 ------------ | ------ | ---------------
 Google | [https://github.com/google](https://github.com/google) | [Google Developers Blog](https://developers.googleblog.com/)
@@ -37,3 +33,9 @@ Atom | [https://github.com/atom](https://github.com/atom) |
 Realm | [https://github.com/realm](https://github.com/realm) |
 Yelp | [https://github.com/Yelp](https://github.com/Yelp) |
 Medium | [https://github.com/Medium](https://github.com/Medium) |
+
+## Contribute
+Feel free to send pull requests. But make sure that organizations you add meet the following requirements:
+- Internet company or organization
+- Contribute to open source community
+- Famous and high quality
