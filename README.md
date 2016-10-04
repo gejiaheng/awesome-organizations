@@ -8,7 +8,7 @@ Google | [https://github.com/google](https://github.com/google) | [Google Develo
 Google Samples | [https://github.com/googlesamples](https://github.com/googlesamples) | [Google Developers](https://developers.google.com/)
 Facebook | [https://github.com/facebook](https://github.com/facebook) | [Facebook code](https://code.facebook.com/posts/)
 Android | [https://github.com/android](https://github.com/android) | [Android Developers](https://developer.android.com/index.html#), [AOSP](https://source.android.com/index.html), [Android Studio Project Site](http://tools.android.com/), [Android Developers Blog](http://android-developers.blogspot.com/)
-Square | [https://github.com/square](https://github.com/square) |
+Square | [https://github.com/square](https://github.com/square) | [Square Open Source](http://square.github.io/), [Square's engineering blog](https://medium.com/square-corner-blog)
 Evernote | [https://github.com/evernote](https://github.com/evernote) |
 Microsoft | [https://github.com/Microsoft](https://github.com/Microsoft) |
 Pinterest | [https://github.com/pinterest](https://github.com/pinterest) |
