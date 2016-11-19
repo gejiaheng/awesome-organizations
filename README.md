@@ -22,17 +22,17 @@ GitHub | [https://github.com/github](https://github.com/github) |
 Instagram | [https://github.com/Instagram](https://github.com/Instagram) |
 Uber | [https://github.com/uber](https://github.com/uber) | 
 Snapchat | [https://github.com/Snapchat](https://github.com/Snapchat) | 
-Yahoo | [https://github.com/yahoo](https://github.com/yahoo) |
-Tumblr | [https://github.com/tumblr](https://github.com/tumblr) |
-Flickr | [https://github.com/flickr](https://github.com/flickr) |
-Reddit | [https://github.com/reddit](https://github.com/reddit) |
-500px | [https://github.com/500px](https://github.com/500px) |
-The White House | [https://github.com/WhiteHouse](https://github.com/WhiteHouse) |
+Yahoo | [https://github.com/yahoo](https://github.com/yahoo) | [Yahoo Developer Network](https://developer.yahoo.com/)
+Tumblr | [https://github.com/tumblr](https://github.com/tumblr) | [Tumblr Engineering](https://engineering.tumblr.com/)
+Flickr | [https://github.com/flickr](https://github.com/flickr) | [code.flickr.com](https://code.flickr.net/)
+Reddit | [https://github.com/reddit](https://github.com/reddit) | [upvoted](https://redditblog.com/)
+500px | [https://github.com/500px](https://github.com/500px) | [500px Engineering Blog](https://developers.500px.com/)
+The White House | [https://github.com/WhiteHouse](https://github.com/WhiteHouse) | [Developers](https://www.whitehouse.gov/developers)
 US Army Research Laboratory | [https://github.com/USArmyResearchLab](https://github.com/USArmyResearchLab) |
-Atom | [https://github.com/atom](https://github.com/atom) |
-Realm | [https://github.com/realm](https://github.com/realm) |
-Yelp | [https://github.com/Yelp](https://github.com/Yelp) |
-Medium | [https://github.com/Medium](https://github.com/Medium) |
+Atom | [https://github.com/atom](https://github.com/atom) | [Atom](https://atom.io/)
+Realm | [https://github.com/realm](https://github.com/realm) | [Realm](https://realm.io/)
+Yelp | [https://github.com/Yelp](https://github.com/Yelp) | [Yelp Engineering and Product](https://www.yelp.com/engineering)
+Medium | [https://github.com/Medium](https://github.com/Medium) | [Medium Engineering](https://medium.com/@MediumEng)
 Airbnb | [https://github.com/airbnb](https://github.com/airbnb) | [Airbnb engineering & data science](http://airbnb.io/)
 material-foundation | [https://github.com/material-foundation](https://github.com/material-foundation) | [material.io](https://material.io/)
 
