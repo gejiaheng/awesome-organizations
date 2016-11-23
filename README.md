@@ -9,19 +9,19 @@ Google Samples | [https://github.com/googlesamples](https://github.com/googlesam
 Facebook | [https://github.com/facebook](https://github.com/facebook) | [Facebook code](https://code.facebook.com/posts/)
 Android | [https://github.com/android](https://github.com/android) | [Android Developers](https://developer.android.com/index.html#), [AOSP](https://source.android.com/index.html), [Android Studio Project Site](http://tools.android.com/), [Android Developers Blog](http://android-developers.blogspot.com/)
 Square | [https://github.com/square](https://github.com/square) | [Square Open Source](http://square.github.io/), [Square's engineering blog](https://medium.com/square-corner-blog)
-Evernote | [https://github.com/evernote](https://github.com/evernote) |
-Microsoft | [https://github.com/Microsoft](https://github.com/Microsoft) |
-Pinterest | [https://github.com/pinterest](https://github.com/pinterest) |
+Evernote | [https://github.com/evernote](https://github.com/evernote) | [Evernote Tech Blog](https://blog.evernote.com/tech/)
+Microsoft | [https://github.com/Microsoft](https://github.com/Microsoft) | [Open Source at Microsoft](https://opensource.microsoft.com/)
+Pinterest | [https://github.com/pinterest](https://github.com/pinterest) | [Pinterest Engineering](https://engineering.pinterest.com/)
 Path | [https://github.com/path](https://github.com/path) |
-Pocket | [https://github.com/Pocket](https://github.com/Pocket) |
-Twitter | [https://github.com/twitter](https://github.com/twitter) | 
+Pocket | [https://github.com/Pocket](https://github.com/Pocket) | [Pocket Blog](https://getpocket.com/blog/)
+Twitter | [https://github.com/twitter](https://github.com/twitter) | [The Twitter Engineering Blog](https://blog.twitter.com/engineering), [The Twitter Developer Blog](https://blog.twitter.com/developer)
 Vine | [https://github.com/vine](https://github.com/vine) |
-LinkedIn | [https://github.com/linkedin](https://github.com/linkedin) |
-Flipboard | [https://github.com/Flipboard](https://github.com/Flipboard) |
-GitHub | [https://github.com/github](https://github.com/github) |
-Instagram | [https://github.com/Instagram](https://github.com/Instagram) |
-Uber | [https://github.com/uber](https://github.com/uber) | 
-Snapchat | [https://github.com/Snapchat](https://github.com/Snapchat) | 
+LinkedIn | [https://github.com/linkedin](https://github.com/linkedin) | [LinkedIn Engineering](https://engineering.linkedin.com/)
+Flipboard | [https://github.com/Flipboard](https://github.com/Flipboard) | [Flipboard Engineering](http://engineering.flipboard.com/)
+GitHub | [https://github.com/github](https://github.com/github) | [GitHub Engineering](http://githubengineering.com/), [The GitHub Blog: Engineering](https://github.com/blog/category/engineering)
+Instagram | [https://github.com/Instagram](https://github.com/Instagram) | [Instagram Engineering](https://engineering.instagram.com/)
+Uber | [https://github.com/uber](https://github.com/uber) | [Uber Engineering](https://eng.uber.com/)
+Snapchat | [https://github.com/Snapchat](https://github.com/Snapchat) |
 Yahoo | [https://github.com/yahoo](https://github.com/yahoo) | [Yahoo Developer Network](https://developer.yahoo.com/)
 Tumblr | [https://github.com/tumblr](https://github.com/tumblr) | [Tumblr Engineering](https://engineering.tumblr.com/)
 Flickr | [https://github.com/flickr](https://github.com/flickr) | [code.flickr.com](https://code.flickr.net/)
