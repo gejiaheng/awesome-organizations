@@ -13,7 +13,6 @@ Square | [https://github.com/square](https://github.com/square) | [Square Open S
 Evernote | [https://github.com/evernote](https://github.com/evernote) | [Evernote Tech Blog](https://blog.evernote.com/tech/)
 Microsoft | [https://github.com/Microsoft](https://github.com/Microsoft) | [Open Source at Microsoft](https://opensource.microsoft.com/)
 Pinterest | [https://github.com/pinterest](https://github.com/pinterest) | [Pinterest Engineering](https://engineering.pinterest.com/)
-Path | [https://github.com/path](https://github.com/path) |
 Pocket | [https://github.com/Pocket](https://github.com/Pocket) | [Pocket Blog](https://getpocket.com/blog/)
 Twitter | [https://github.com/twitter](https://github.com/twitter) | [The Twitter Engineering Blog](https://blog.twitter.com/engineering), [The Twitter Developer Blog](https://blog.twitter.com/developer)
 Vine | [https://github.com/vine](https://github.com/vine) |
