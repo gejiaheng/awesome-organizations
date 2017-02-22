@@ -36,7 +36,7 @@ Medium | [https://github.com/Medium](https://github.com/Medium) | [Medium Engine
 Airbnb | [https://github.com/airbnb](https://github.com/airbnb) | [Airbnb engineering & data science](http://airbnb.io/)
 material-foundation | [https://github.com/material-foundation](https://github.com/material-foundation) | [material.io](https://material.io/)
 Trello | [https://github.com/trello](https://github.com/trello) | [Tech at Trello](http://tech.trello.com/)
-Netflix | [https://github.com/Netflix](https://github.com/Netflix) | [Netflix Open Source Software Center](http://netflix.github.io/)
+Netflix | [https://github.com/Netflix](https://github.com/Netflix) | [Netflix Open Source Software Center](http://netflix.github.io/), [The Netflix Tech Blog](http://techblog.netflix.com/)
 
 ## Contribute
 Feel free to send pull requests. But make sure that organizations you add meet the following requirements:
