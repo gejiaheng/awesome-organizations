@@ -37,6 +37,7 @@ Airbnb | [https://github.com/airbnb](https://github.com/airbnb) | [Airbnb engine
 material-foundation | [https://github.com/material-foundation](https://github.com/material-foundation) | [material.io](https://material.io/)
 Trello | [https://github.com/trello](https://github.com/trello) | [Tech at Trello](http://tech.trello.com/)
 Netflix | [https://github.com/Netflix](https://github.com/Netflix) | [Netflix Open Source Software Center](http://netflix.github.io/), [The Netflix Tech Blog](http://techblog.netflix.com/)
+Slack | [https://github.com/slackhq](https://github.com/slackhq) | [The Slack Engineering Blog](https://slack.engineering/)
 
 ## Contribute
 Feel free to send pull requests. But make sure that organizations you add meet the following requirements:
