@@ -39,6 +39,7 @@ material-foundation | [https://github.com/material-foundation](https://github.co
 Trello | [https://github.com/trello](https://github.com/trello) | [Tech at Trello](http://tech.trello.com/)
 Netflix | [https://github.com/Netflix](https://github.com/Netflix) | [Netflix Open Source Software Center](http://netflix.github.io/), [The Netflix Tech Blog](http://techblog.netflix.com/)
 Slack | [https://github.com/slackhq](https://github.com/slackhq) | [The Slack Engineering Blog](https://slack.engineering/)
+Lyft | [https://github.com/lyft](https://github.com/lyft) | [Lyft Engineering](https://eng.lyft.com/)
 
 ## Contribute
 Feel free to send pull requests. But make sure that organizations you add meet the following requirements:
