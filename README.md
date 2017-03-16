@@ -21,7 +21,7 @@ LinkedIn | [https://github.com/linkedin](https://github.com/linkedin) | [LinkedI
 Flipboard | [https://github.com/Flipboard](https://github.com/Flipboard) | [Flipboard Engineering](http://engineering.flipboard.com/)
 GitHub | [https://github.com/github](https://github.com/github) | [GitHub Engineering](http://githubengineering.com/), [The GitHub Blog: Engineering](https://github.com/blog/category/engineering)
 Instagram | [https://github.com/Instagram](https://github.com/Instagram) | [Instagram Engineering](https://engineering.instagram.com/)
-Uber | [https://github.com/uber](https://github.com/uber) | [Uber Engineering](https://eng.uber.com/)
+Uber | [https://github.com/uber](https://github.com/uber), [https://github.com/uber-common](https://github.com/uber-common) | [Uber Engineering](https://eng.uber.com/)
 Snapchat | [https://github.com/Snapchat](https://github.com/Snapchat) |
 Yahoo | [https://github.com/yahoo](https://github.com/yahoo) | [Yahoo Developer Network](https://developer.yahoo.com/)
 Tumblr | [https://github.com/tumblr](https://github.com/tumblr) | [Tumblr Engineering](https://engineering.tumblr.com/)
